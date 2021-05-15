@@ -26,3 +26,6 @@ Desktop Applications  with PyQt5
 
 **PixMap**
 A QPixmap can be used to show an image in a PyQT window.
+
+**ComboBox**
+You can have a listbox, selectbox or combobox with QComboBox
