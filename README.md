@@ -19,3 +19,10 @@ Desktop Applications  with PyQt5
 
 [message.py](https://imgur.com/zQ3uSlq)
       
+
+**Grids**
+
+**Line Edit**
+
+**PixMap**
+A QPixmap can be used to show an image in a PyQT window.
