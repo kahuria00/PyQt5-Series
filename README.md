@@ -3,12 +3,12 @@ Desktop Applications  with PyQt5
 
 **Hello APP**
 
-[](https://imgur.com/Rw0E9l5)
+[hello.py](https://imgur.com/Rw0E9l5)
 
 
 **Buttons**
 
-[](https://imgur.com/WPRpUZv)
+[button.py](https://imgur.com/WPRpUZv)
 
 
 
@@ -17,5 +17,5 @@ Desktop Applications  with PyQt5
 
 
 
-[](https://imgur.com/zQ3uSlq)
+[message.py](https://imgur.com/zQ3uSlq)
       
