@@ -3,13 +3,28 @@ Desktop Applications  with PyQt5
 
 **Hello APP**
 
-![hello.py](https://imgur.com/Rw0E9l5)
+
+<div align="center">
+    <img src="https://imgur.com/Rw0E9l5" width="400px"/>
+      
+</div>
+
 
 **Buttons**
 
-![buttons.py](https://imgur.com/WPRpUZv)
+<div align="center">
+    <img src="/https://imgur.com/WPRpUZv" width="400px"/>
+      
+</div>
+
+
 
 
 **Message/Dialog Box**
 
-![buttons.py](https://imgur.com/zQ3uSlq)
+
+
+<div align="center">
+    <img src="/https://imgur.com/zQ3uSlq"width="400px"/>
+      
+</div>
